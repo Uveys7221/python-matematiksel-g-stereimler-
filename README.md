@@ -1,2 +1,5 @@
-# python-matematiksel-g-stereimler-
-python
+# > İçindekiler 
+
+> fibonacci
+
+> pascal
