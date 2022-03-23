@@ -1,0 +1,16 @@
+#kod tamamen python ile yazılmıştır 
+
+
+#Level 1 
+
+import turtle
+list = [1, 1]
+for i in range(10):
+    list.append(0)
+    list[2] = int(list[0]) + int(list[1])
+    turtle.forward(1*list[2])
+    turtle.right(90)
+    list = list[1:]
+    
+# Level 2
+
