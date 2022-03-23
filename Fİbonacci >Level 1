@@ -11,6 +11,4 @@ for i in range(10):
     turtle.forward(1*list[2])
     turtle.right(90)
     list = list[1:]
-    
-# Level 2
 
